@@ -3,9 +3,7 @@ package com.restaurantfinder.restaurant_reccomender;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-//import org.json.simple.JSONArray;
-//import org.json.simple.JsonObject;
-//import org.json.simple.parser.JSONParser;
+
 
 
 import java.util.Scanner;
